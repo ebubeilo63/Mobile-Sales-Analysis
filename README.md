@@ -15,15 +15,6 @@ Project Overview | Dataset Overview | Tools used | Table Outlay | Query Language
 ##  Dataset Source  
 www.kaggle.com/dataset
 
-### Sample Records (first 3 transactions)
-| InvoiceNo | StockCode | Description  | Quantity | InvoiceDate | UnitPrice | CustomerID | Country |
-|-----------|-----------|--------------|----------|-------------|-----------|------------|---------|
-| 537226    | 22728     | mobile a     | 6        | 12/1/2010   | 3.75      | 15311      | UK      |
-| 537227    | 22729     | mobile b     | 8        | 12/1/2010   | 5.00      | 15312      | UK      |
-| 537228    | 22730     | mobile c     | 2        | 12/1/2010   | 7.50      | 15313      | UK      |
-
-
-
 ## Tools Used  
 + **Power BI** 
 + **Excel**  
@@ -40,6 +31,11 @@ First Three Records:
 |4f87d114-f522-4ead-93e3-f336402df6aa	|4/5/2024	|right	|Thomas-Thompson	|1010.34	|64	|2378.82	|55	|Female	|East Linda	|Credit Card|
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1	|2/13/2024	|summer	|Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male	|East Angelicastad	|Online|
 |7da7de95-f772-4cc2-bce0-b0873f98233e	|4/17/2024	|keep	|Greer and Sons	|338.6	|79	|31159.75	|46	|Other	|East Kevin	|Cash|
+
+## Query Language: (SQL)
+Some of teh query languages to retrieve records are displayed here
+
+```SQL
 
 
 
