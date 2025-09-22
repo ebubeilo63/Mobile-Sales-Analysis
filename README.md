@@ -35,7 +35,39 @@ First Three Records:
 ## Query Language
 Some of teh query languages to retrieve records are displayed here
 
-``SQL
+```SQL
+
+---1. categorizing the data into silver,gold,diamond---
+
+SELECT Price,
+CASE
+WHEN Price <= 500 THEN 'Silver' WHEN Price >= 500 THEN 'Gold'
+ELSE 'Diamond'
+END AS 'Ranking'
+FROM [dbo].[mobile_sales];
+
+---2. Retriving all female customer that bought goods with Price above 900 ---
+
+SELECT CustomerGender,Price FROM  [dbo].[mobile_sales]
+WHERE CustomerGender = 'Female' AND Price > 900;
+
+---3. Retriving the sales by payment method arranging from largest to smallest amount---
+
+SELECT PaymentMethod,SUM (TotalRevenue) AS Sales
+FROM [dbo].[mobile_sales]
+GROUP BY PaymentMethod
+ORDER BY Sales DESC;
+
+---4. Retrive the most expensive brand---
+
+SELECT MAX (Price) AS Price,Brand FROM [dbo].[mobile_sales]
+GROUP BY Brand
+ORDER BY Price DESC;
+
+---5.How many brands are there---
+
+SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
+```
 
 ## Visualization
 ### Pivot Tables
