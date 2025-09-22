@@ -1,7 +1,7 @@
 # Mobile-Sales-Analysis
 
 ## Overview:
-**This is the sales report for Mobile Sales Product*
+**This is the sales report for Mobile Sales Product**
 
 ---
 
