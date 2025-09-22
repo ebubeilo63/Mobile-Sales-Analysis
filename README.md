@@ -36,7 +36,12 @@ First Three Records:
 Some of teh query languages to retrieve records are displayed here
 
 ```SQL
+(48mins)
+---
 
+```SQL
+
+---
 
 
 
