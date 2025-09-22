@@ -39,3 +39,4 @@ Some of teh query languages to retrieve records are displayed here
 
 ##Visualization
 ###Pivot Tables
+<img width="1316" height="385" alt="Screenshot 2025-09-20 034011" src="https://github.com/user-attachments/assets/204f9055-ea9a-4ee7-83a2-6c8d2ec6b10d" />
