@@ -58,6 +58,9 @@ Some of teh query languages to retrieve records are displayed here
 
 #### Total Sales By Age Category
 
+<img width="1400" height="782" alt="Screenshot 2025-09-07 211601" src="https://github.com/user-attachments/assets/f7a9fd21-e896-4e70-a96d-651ed384b185" />
+
+
 <img width="1399" height="788" alt="Screenshot 2025-09-07 211627" src="https://github.com/user-attachments/assets/8ba5adc9-5075-421b-a6be-4638d4c4b902" />
 
 #### Total Sales By Level of Preferred Payment Method, and Customer Gender
