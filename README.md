@@ -35,13 +35,10 @@ First Three Records:
 ## Query Language: (SQL)
 Some of teh query languages to retrieve records are displayed here
 
-```SQL
-(48mins)
----
+``SQL
 
-```SQL
+##Visualization
 
 ---
 
-
-
+Pivot Tables
