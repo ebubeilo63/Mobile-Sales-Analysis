@@ -46,4 +46,7 @@ Some of teh query languages to retrieve records are displayed here
 
 <img width="1793" height="678" alt="Screenshot 2025-09-20 033735" src="https://github.com/user-attachments/assets/3949c77f-7a5f-4e1f-a85c-60aaf20fa5c7" />
 
+### PowerBI D
+
+<img width="1397" height="764" alt="Screenshot 2025-09-07 211709" src="https://github.com/user-attachments/assets/02cad351-77cc-48d0-bdc0-a6bdeabd0f08" />
 
