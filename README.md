@@ -38,7 +38,4 @@ Some of teh query languages to retrieve records are displayed here
 ``SQL
 
 ##Visualization
-
----
-
-Pivot Tables
+###Pivot Tables
