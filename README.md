@@ -52,5 +52,5 @@ Some of teh query languages to retrieve records are displayed here
 
 ### PowerBI Single Visual
 
-
+<img width="1397" height="785" alt="Screenshot 2025-09-07 211651" src="https://github.com/user-attachments/assets/a1738abb-0529-4736-b76d-fe3807711c28" />
 
