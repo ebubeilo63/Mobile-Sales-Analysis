@@ -50,3 +50,7 @@ Some of teh query languages to retrieve records are displayed here
 
 <img width="1397" height="764" alt="Screenshot 2025-09-07 211709" src="https://github.com/user-attachments/assets/02cad351-77cc-48d0-bdc0-a6bdeabd0f08" />
 
+### PowerBI Single Visual
+
+
+
