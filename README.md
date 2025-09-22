@@ -6,7 +6,7 @@
 ---
 
 ## Contents
-[Project Overview](#Project-Overview)| [Dataset Source](#Dataset-Source) | [Tools used](#Tools-Used) |+ [Table Outlay](#Table-Outlay) | [Query Language (SQL)](#Query-Language:-(SQL)) | [Visuaization](#Visualization) 
+[Project Overview](#Project-Overview)| [Dataset Source](#Dataset-Source) | [Tools used](#Tools-Used) |+ [Table Outlay](#Table-Outlay) | [Query Language](#Query-Language) | [Visuaization](#Visualization) 
 
 ---
 ## Project Overview
@@ -32,7 +32,7 @@ First Three Records:
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1	|2/13/2024	|summer	|Sanchez-Williams	|400.8	|95	|31322.56	|57	|Male	|East Angelicastad	|Online|
 |7da7de95-f772-4cc2-bce0-b0873f98233e	|4/17/2024	|keep	|Greer and Sons	|338.6	|79	|31159.75	|46	|Other	|East Kevin	|Cash|
 
-## Query Language: (SQL)
+## Query Language
 Some of teh query languages to retrieve records are displayed here
 
 ``SQL
