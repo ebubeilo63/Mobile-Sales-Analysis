@@ -1,4 +1,4 @@
-<img width="961" height="610" alt="Screenshot 2025-09-15 133806" src="https://github.com/user-attachments/assets/d4d9b87e-bdfe-4ef9-878f-70d3ea5c159c" /># Mobile-Sales-Analysis
+# Mobile-Sales-Analysis
 
 ## Overview:
 **This is the sales report for Mobile Sales Product**
