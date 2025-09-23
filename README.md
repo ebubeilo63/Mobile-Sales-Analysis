@@ -1,4 +1,4 @@
-# Mobile-Sales-Analysis
+<img width="961" height="610" alt="Screenshot 2025-09-15 133806" src="https://github.com/user-attachments/assets/d4d9b87e-bdfe-4ef9-878f-70d3ea5c159c" /># Mobile-Sales-Analysis
 
 ## Overview:
 **This is the sales report for Mobile Sales Product**
@@ -10,7 +10,7 @@
 
 ---
 ## Project Overview
-> >This project analyzes the sales of Mobile Product to uncover the insights on sales distributio by arious attributes such as Brands, Customer Gender and payment methods. Using Pivot tables, I explored metrics like total sales by Payment Method and Gender, average income of buyers, gender distribution and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
+> >This project analyzes the sales of Mobile Product to uncover the insights on sales distributio by various attributes such as Brands, Customer Gender and payment methods. Using Pivot tables, I explored metrics like total sales by Payment Method and Gender, average income of buyers, gender distribution and overall revenue. This analysis helps to understand the key factors driving sales in the dataset provided.
 
 ##  Dataset Source  
 www.kaggle.com/dataset
@@ -95,6 +95,10 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 #### Total Sales By Level of Preferred Payment Method, and Customer Gender
 
 <img width="1399" height="788" alt="Screenshot 2025-09-07 211627" src="https://github.com/user-attachments/assets/8ba5adc9-5075-421b-a6be-4638d4c4b902" />
+
+### SQL Single Visuals
+
+<img width="961" height="610" alt="Screenshot 2025-09-15 133806" src="https://github.com/user-attachments/assets/60d2543e-f9f3-4d0c-bfb5-f8dece0d6043" />
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/ebube-ilo/)
 
