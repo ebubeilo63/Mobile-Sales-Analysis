@@ -98,7 +98,6 @@ SELECT COUNT (DISTINCT Brand) AS Num_of_Brand FROM [dbo].[mobile_sales];
 
 ### SQL Single Visuals
 
-<img width="961" height="610" alt="Screenshot 2025-09-15 133806" src="https://github.com/user-attachments/assets/60d2543e-f9f3-4d0c-bfb5-f8dece0d6043" />
 
 [View_my_Linkedin Profile](https://www.linkedin.com/in/ebube-ilo/)
 
